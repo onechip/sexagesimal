@@ -1,0 +1,16 @@
+Sexagesimal calculator in a web browser.
+
+From https://en.wikipedia.org/wiki/Sexagesimal
+
+    Sexagesimal (base 60) is a numeral system with sixty as its base.  It
+    originated with the ancient Sumerians in the 3rd millennium BC, it was
+    passed down to the ancient Babylonians, and it is still used — in a
+    modified form — for measuring time, angles, and geographic coordinates.
+
+This single web page file is a standalone sexagesimal calculator implemented
+in javascript.  It utilizes the jsbn BigInteger implementation written by
+Tom Wu.  Note that the single html file contains code from both Tom Wu and
+Chris Studholme.  Please make note of the copyright notices to determine
+which code came from which author.  See the LICENSE for details of the
+copyright license provided.
+
